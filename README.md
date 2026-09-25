@@ -133,4 +133,8 @@ If you use this repository, please cite the repository using the metadata provid
 
 ## License
 
-No explicit repository license has yet been assigned. `LICENSE_STATUS = PENDING_AUTHOR_CONFIRMATION`.
+Source code in this repository is licensed under the [MIT License](LICENSE).
+
+Unless otherwise stated, figures, tables, research outputs, and data are not covered by the MIT software license.
+
+Exact reference coordinates, sensitive field-survey information, raw reference datasets, and the fitted model are not included in the initial release.
