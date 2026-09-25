@@ -1,0 +1,4 @@
+| Domain | Analytical role | Period | Predictor sources used in released experiments | Polygons | Spatial groups | Raw pixel rows | Retained pixel rows |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Bentong | Source domain | 2025 | Sentinel-2 reflectance and vegetation indices; Sentinel-1 VV/VH; NASADEM terrain | 557 | 206 | 712772 | 37724 |
+| Pahang outside Bentong | Independent target domain; later target-domain diagnosis | 2025 | Sentinel-2 reflectance and vegetation indices (E3 and E5/E6) | 652 | 268 | 227002 | 59975 |

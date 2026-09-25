@@ -1,0 +1,50 @@
+﻿reference_class,predicted_class,count
+Built-up/Bare soil,Built-up/Bare soil,97
+Built-up/Bare soil,Durian,0
+Built-up/Bare soil,Forest,0
+Built-up/Bare soil,Other agriculture,1
+Built-up/Bare soil,Oil palm,0
+Built-up/Bare soil,Rubber,0
+Built-up/Bare soil,Water,2
+Durian,Built-up/Bare soil,0
+Durian,Durian,106
+Durian,Forest,2
+Durian,Other agriculture,7
+Durian,Oil palm,0
+Durian,Rubber,5
+Durian,Water,0
+Forest,Built-up/Bare soil,1
+Forest,Durian,7
+Forest,Forest,65
+Forest,Other agriculture,4
+Forest,Oil palm,0
+Forest,Rubber,1
+Forest,Water,0
+Other agriculture,Built-up/Bare soil,1
+Other agriculture,Durian,1
+Other agriculture,Forest,2
+Other agriculture,Other agriculture,36
+Other agriculture,Oil palm,0
+Other agriculture,Rubber,0
+Other agriculture,Water,0
+Oil palm,Built-up/Bare soil,0
+Oil palm,Durian,6
+Oil palm,Forest,7
+Oil palm,Other agriculture,7
+Oil palm,Oil palm,71
+Oil palm,Rubber,9
+Oil palm,Water,0
+Rubber,Built-up/Bare soil,0
+Rubber,Durian,5
+Rubber,Forest,3
+Rubber,Other agriculture,0
+Rubber,Oil palm,1
+Rubber,Rubber,27
+Rubber,Water,0
+Water,Built-up/Bare soil,2
+Water,Durian,1
+Water,Forest,2
+Water,Other agriculture,4
+Water,Oil palm,0
+Water,Rubber,0
+Water,Water,74

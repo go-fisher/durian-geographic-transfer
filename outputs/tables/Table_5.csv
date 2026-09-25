@@ -1,0 +1,11 @@
+﻿Measure,Frozen Bentong model applied to Pahang (E3),Pahang-trained grouped internal analysis (E5)
+OA,0.704,0.836
+Balanced accuracy,0.705,0.841
+Macro-F1,0.704,0.839
+Weighted-F1,0.704,0.838
+Durian precision,0.692,0.840
+Durian recall,0.743,0.725
+Durian F1,0.717,0.778
+Rubber precision,0.385,0.683
+Rubber recall,0.378,0.878
+Rubber F1,0.381,0.768

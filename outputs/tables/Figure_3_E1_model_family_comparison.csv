@@ -1,0 +1,10 @@
+﻿model_family,metric,value,source_workbook,source_sheet,source_field
+RF,OA,0.8240574506283662,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_accuracy
+RF,Macro-F1,0.7740460695230118,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_macro_f1
+RF,Durian F1,0.7848101265822784,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_durian_f1
+XGBoost,OA,0.8348294434470377,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_accuracy
+XGBoost,Macro-F1,0.8054133729395642,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_macro_f1
+XGBoost,Durian F1,0.7860262008733624,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_durian_f1
+SVM,OA,0.8509874326750448,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_accuracy
+SVM,Macro-F1,0.8306507948017251,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_macro_f1
+SVM,Durian F1,0.8081632653061225,MASTER_RESULTS_LOCKED_v2.xlsx,E1_Summary,polygon_durian_f1

@@ -1,0 +1,9 @@
+﻿sequence,stage,title,details,evidence_role
+1,Reference Data,Bentong reference data,557 polygons | 206 spatial groups,Source reference data
+2,Model Development,E1 nested grouped model development,RF / XGBoost / SVM | nested grouped OOF,Source-domain development
+3,Staged Selection,Full-Bentong staged selection,S2: priority Durian F1 | R1 selected within S2,Full-source selection
+4,Freeze Specification,Frozen S2+R1,predictors + preprocessing | fixed before Pahang,Frozen specification
+5a,Source-Domain Benchmark,E2 fixed Bentong benchmark,post-selection conditional grouped OOF | OA = 0.855,Conditional source benchmark
+5b,Independent Target Audit,E3 independent Pahang audit,frozen model; no target fitting | OA = 0.704,Independent target audit
+6,Target-Domain Learnability,E5 target-domain learnability,post-hoc grouped modelling | with Pahang labels; OA = 0.836,Post-hoc target learnability
+S,Supplementary Post-hoc Diagnostics,E4 fixed-R1 feature sensitivity; E6 Rubber coverage sensitivity,no retroactive reselection | non-causal repeated reductions,Supplementary diagnostics

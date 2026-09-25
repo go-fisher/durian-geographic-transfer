@@ -1,0 +1,9 @@
+﻿metric,series,value,source_sheet,source_field
+OA,Direct transfer (E3; frozen Bentong model),0.7039877300613497,E3_Summary,accuracy
+OA,Target-domain grouped modelling (E5; Pahang labels used),0.8358895705521472,E5_Summary,polygon_accuracy
+Macro-F1,Direct transfer (E3; frozen Bentong model),0.7037564048022223,E3_Summary,macro_f1
+Macro-F1,Target-domain grouped modelling (E5; Pahang labels used),0.8394393766591177,E5_Summary,polygon_macro_f1
+Durian F1,Direct transfer (E3; frozen Bentong model),0.7168141592920354,E3_Summary,durian_f1
+Durian F1,Target-domain grouped modelling (E5; Pahang labels used),0.7783251231527094,E5_Summary,polygon_durian_f1
+Rubber F1,Direct transfer (E3; frozen Bentong model),0.38144329896907214,E3_Class_Metrics,f1-score
+Rubber F1,Target-domain grouped modelling (E5; Pahang labels used),0.7678571428571429,E5_Summary,polygon_rubber_f1

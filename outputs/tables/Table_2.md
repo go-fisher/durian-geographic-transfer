@@ -1,0 +1,10 @@
+| Class | Bentong polygons | Bentong groups | Pahang polygons | Pahang groups |
+| --- | --- | --- | --- | --- |
+| Built-up/Bare soil | 100 | 40 | 87 | 40 |
+| Durian | 120 | 30 | 109 | 43 |
+| Forest | 78 | 41 | 98 | 38 |
+| Other agriculture | 40 | 16 | 61 | 24 |
+| Oil palm | 100 | 35 | 105 | 46 |
+| Rubber | 36 | 10 | 98 | 43 |
+| Water | 83 | 34 | 94 | 34 |
+| Total | 557 | 206 | 652 | 268 |

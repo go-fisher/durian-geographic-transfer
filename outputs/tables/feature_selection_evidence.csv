@@ -1,0 +1,19 @@
+evidence_scope,model_family,feature_set,selected_outer_folds,total_outer_folds,selection_priority
+E1 nested outer-fold inner selections,RF,S2,2,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,RF,S2_DEM,2,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,RF,FULL,1,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,XGBoost,S2_S1,3,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,XGBoost,S2,1,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,XGBoost,FULL,1,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,SVM,FULL,4,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+E1 nested outer-fold inner selections,SVM,S2_S1,1,5,"polygon Durian F1, then polygon macro-F1, then weighted pixel Durian F1"
+full-Bentong grouped SVM feature screening,SVM,S2,selected,5,polygon Durian F1 mean=0.844805; polygon macro-F1 mean=0.758896
+full-Bentong grouped SVM feature screening,SVM,S2_DEM,not selected,5,polygon Durian F1 mean=0.807782; polygon macro-F1 mean=0.778772
+full-Bentong grouped SVM feature screening,SVM,S2_S1,not selected,5,polygon Durian F1 mean=0.807045; polygon macro-F1 mean=0.796069
+full-Bentong grouped SVM feature screening,SVM,FULL,not selected,5,polygon Durian F1 mean=0.804997; polygon macro-F1 mean=0.808342
+full-Bentong grouped SVM feature screening,SVM,S1,not selected,5,polygon Durian F1 mean=0.316973; polygon macro-F1 mean=0.338494
+full-Bentong grouped SVM candidate screening within S2,SVM,R1,selected,5,polygon Durian F1 mean=0.866016; polygon macro-F1 mean=0.832682
+full-Bentong grouped SVM candidate screening within S2,SVM,R3,not selected,5,polygon Durian F1 mean=0.859828; polygon macro-F1 mean=0.838287
+full-Bentong grouped SVM candidate screening within S2,SVM,R2,not selected,5,polygon Durian F1 mean=0.859127; polygon macro-F1 mean=0.816002
+full-Bentong grouped SVM candidate screening within S2,SVM,R0,not selected,5,polygon Durian F1 mean=0.848113; polygon macro-F1 mean=0.823885
+full-Bentong grouped SVM candidate screening within S2,SVM,L0,not selected,5,polygon Durian F1 mean=0.844805; polygon macro-F1 mean=0.758896

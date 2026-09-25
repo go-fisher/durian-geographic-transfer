@@ -1,0 +1,5 @@
+| Model-family pipeline | OA | Balanced accuracy | Macro-F1 | Weighted-F1 | Durian F1 |
+| --- | --- | --- | --- | --- | --- |
+| Random Forest | 0.824 | 0.774 | 0.774 | 0.818 | 0.785 |
+| XGBoost | 0.835 | 0.808 | 0.805 | 0.838 | 0.786 |
+| Support Vector Machine | 0.851 | 0.826 | 0.831 | 0.854 | 0.808 |
