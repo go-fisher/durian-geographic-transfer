@@ -4,7 +4,9 @@
 
 This repository accompanies the study **“Evaluating geographic transfer of a spatially validated Durian plantation classifier within Pahang, Malaysia.”** It preserves the study’s source-to-target evidence sequence while separating publishable code and aggregate results from exact reference locations and field-survey data.
 
-The repository is prepared for a final read-only release audit. It has not been initialised as a Git repository, uploaded, licensed, or released.
+Repository author: **HE XIAOYUAN**.
+
+The associated manuscript is unpublished and is currently in preparation or submission. The repository is being prepared on a private GitHub review branch and has not been publicly released or licensed.
 
 ## Research objective
 
@@ -127,7 +129,7 @@ The initial release provides code, documentation, aggregate tables, approved fig
 
 ## Citation
 
-Citation metadata require author confirmation. The local `CITATION.cff` is a pending draft without invented authors and is excluded from the initial release until confirmed author metadata are supplied.
+If you use this repository, please cite the repository using the metadata provided in [CITATION.cff](CITATION.cff). The associated manuscript is not yet published.
 
 ## License
 

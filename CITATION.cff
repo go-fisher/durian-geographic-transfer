@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using this metadata. The associated manuscript is not yet published."
+type: software
+title: "Code supporting geographic transfer evaluation of a spatially validated Durian plantation classifier within Pahang, Malaysia"
+authors:
+  - family-names: "HE"
+    given-names: "XIAOYUAN"
+repository-code: "https://github.com/go-fisher/durian-geographic-transfer"
+abstract: >-
+  Research code supporting the unpublished manuscript Evaluating geographic
+  transfer of a spatially validated Durian plantation classifier within Pahang,
+  Malaysia.
